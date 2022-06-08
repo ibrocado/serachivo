@@ -102,7 +102,7 @@ div {
 }
 
 .gif {
-  max-width: 450px;
+  max-width: 480px;
   margin: auto;
   object-fit: contain;
 }
